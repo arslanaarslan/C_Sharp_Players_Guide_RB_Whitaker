@@ -1,0 +1,16 @@
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Consolas_and_Telim\The_Thing_Namer_3000\TheThingNamer3000\bin\Debug\net5.0\TheThingNamer3000.exe
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Consolas_and_Telim\The_Thing_Namer_3000\TheThingNamer3000\bin\Debug\net5.0\TheThingNamer3000.deps.json
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Consolas_and_Telim\The_Thing_Namer_3000\TheThingNamer3000\bin\Debug\net5.0\TheThingNamer3000.runtimeconfig.json
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Consolas_and_Telim\The_Thing_Namer_3000\TheThingNamer3000\bin\Debug\net5.0\TheThingNamer3000.runtimeconfig.dev.json
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Consolas_and_Telim\The_Thing_Namer_3000\TheThingNamer3000\bin\Debug\net5.0\TheThingNamer3000.dll
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Consolas_and_Telim\The_Thing_Namer_3000\TheThingNamer3000\bin\Debug\net5.0\ref\TheThingNamer3000.dll
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Consolas_and_Telim\The_Thing_Namer_3000\TheThingNamer3000\bin\Debug\net5.0\TheThingNamer3000.pdb
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Consolas_and_Telim\The_Thing_Namer_3000\TheThingNamer3000\obj\Debug\net5.0\TheThingNamer3000.csproj.AssemblyReference.cache
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Consolas_and_Telim\The_Thing_Namer_3000\TheThingNamer3000\obj\Debug\net5.0\TheThingNamer3000.GeneratedMSBuildEditorConfig.editorconfig
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Consolas_and_Telim\The_Thing_Namer_3000\TheThingNamer3000\obj\Debug\net5.0\TheThingNamer3000.AssemblyInfoInputs.cache
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Consolas_and_Telim\The_Thing_Namer_3000\TheThingNamer3000\obj\Debug\net5.0\TheThingNamer3000.AssemblyInfo.cs
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Consolas_and_Telim\The_Thing_Namer_3000\TheThingNamer3000\obj\Debug\net5.0\TheThingNamer3000.csproj.CoreCompileInputs.cache
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Consolas_and_Telim\The_Thing_Namer_3000\TheThingNamer3000\obj\Debug\net5.0\TheThingNamer3000.dll
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Consolas_and_Telim\The_Thing_Namer_3000\TheThingNamer3000\obj\Debug\net5.0\ref\TheThingNamer3000.dll
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Consolas_and_Telim\The_Thing_Namer_3000\TheThingNamer3000\obj\Debug\net5.0\TheThingNamer3000.pdb
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Consolas_and_Telim\The_Thing_Namer_3000\TheThingNamer3000\obj\Debug\net5.0\TheThingNamer3000.genruntimeconfig.cache

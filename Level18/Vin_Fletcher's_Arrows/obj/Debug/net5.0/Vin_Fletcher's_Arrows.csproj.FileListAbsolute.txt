@@ -1,0 +1,16 @@
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level18\Vin_Fletcher's_Arrows\bin\Debug\net5.0\Vin_Fletcher's_Arrows.exe
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level18\Vin_Fletcher's_Arrows\bin\Debug\net5.0\Vin_Fletcher's_Arrows.deps.json
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level18\Vin_Fletcher's_Arrows\bin\Debug\net5.0\Vin_Fletcher's_Arrows.runtimeconfig.json
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level18\Vin_Fletcher's_Arrows\bin\Debug\net5.0\Vin_Fletcher's_Arrows.runtimeconfig.dev.json
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level18\Vin_Fletcher's_Arrows\bin\Debug\net5.0\Vin_Fletcher's_Arrows.dll
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level18\Vin_Fletcher's_Arrows\bin\Debug\net5.0\ref\Vin_Fletcher's_Arrows.dll
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level18\Vin_Fletcher's_Arrows\bin\Debug\net5.0\Vin_Fletcher's_Arrows.pdb
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level18\Vin_Fletcher's_Arrows\obj\Debug\net5.0\Vin_Fletcher's_Arrows.csproj.AssemblyReference.cache
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level18\Vin_Fletcher's_Arrows\obj\Debug\net5.0\Vin_Fletcher's_Arrows.GeneratedMSBuildEditorConfig.editorconfig
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level18\Vin_Fletcher's_Arrows\obj\Debug\net5.0\Vin_Fletcher's_Arrows.AssemblyInfoInputs.cache
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level18\Vin_Fletcher's_Arrows\obj\Debug\net5.0\Vin_Fletcher's_Arrows.AssemblyInfo.cs
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level18\Vin_Fletcher's_Arrows\obj\Debug\net5.0\Vin_Fletcher's_Arrows.csproj.CoreCompileInputs.cache
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level18\Vin_Fletcher's_Arrows\obj\Debug\net5.0\Vin_Fletcher's_Arrows.dll
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level18\Vin_Fletcher's_Arrows\obj\Debug\net5.0\ref\Vin_Fletcher's_Arrows.dll
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level18\Vin_Fletcher's_Arrows\obj\Debug\net5.0\Vin_Fletcher's_Arrows.pdb
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level18\Vin_Fletcher's_Arrows\obj\Debug\net5.0\Vin_Fletcher's_Arrows.genruntimeconfig.cache

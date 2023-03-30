@@ -1,0 +1,16 @@
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level17\Simula's_Soups\bin\Debug\net5.0\Simula's_Soups.exe
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level17\Simula's_Soups\bin\Debug\net5.0\Simula's_Soups.deps.json
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level17\Simula's_Soups\bin\Debug\net5.0\Simula's_Soups.runtimeconfig.json
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level17\Simula's_Soups\bin\Debug\net5.0\Simula's_Soups.runtimeconfig.dev.json
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level17\Simula's_Soups\bin\Debug\net5.0\Simula's_Soups.dll
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level17\Simula's_Soups\bin\Debug\net5.0\ref\Simula's_Soups.dll
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level17\Simula's_Soups\bin\Debug\net5.0\Simula's_Soups.pdb
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level17\Simula's_Soups\obj\Debug\net5.0\Simula's_Soups.csproj.AssemblyReference.cache
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level17\Simula's_Soups\obj\Debug\net5.0\Simula's_Soups.GeneratedMSBuildEditorConfig.editorconfig
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level17\Simula's_Soups\obj\Debug\net5.0\Simula's_Soups.AssemblyInfoInputs.cache
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level17\Simula's_Soups\obj\Debug\net5.0\Simula's_Soups.AssemblyInfo.cs
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level17\Simula's_Soups\obj\Debug\net5.0\Simula's_Soups.csproj.CoreCompileInputs.cache
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level17\Simula's_Soups\obj\Debug\net5.0\Simula's_Soups.dll
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level17\Simula's_Soups\obj\Debug\net5.0\ref\Simula's_Soups.dll
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level17\Simula's_Soups\obj\Debug\net5.0\Simula's_Soups.pdb
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level17\Simula's_Soups\obj\Debug\net5.0\Simula's_Soups.genruntimeconfig.cache

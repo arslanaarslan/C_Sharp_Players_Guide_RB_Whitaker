@@ -1,0 +1,16 @@
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level19\Vin's_Trouble\bin\Debug\net5.0\Vin's_Trouble.exe
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level19\Vin's_Trouble\bin\Debug\net5.0\Vin's_Trouble.deps.json
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level19\Vin's_Trouble\bin\Debug\net5.0\Vin's_Trouble.runtimeconfig.json
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level19\Vin's_Trouble\bin\Debug\net5.0\Vin's_Trouble.runtimeconfig.dev.json
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level19\Vin's_Trouble\bin\Debug\net5.0\Vin's_Trouble.dll
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level19\Vin's_Trouble\bin\Debug\net5.0\ref\Vin's_Trouble.dll
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level19\Vin's_Trouble\bin\Debug\net5.0\Vin's_Trouble.pdb
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level19\Vin's_Trouble\obj\Debug\net5.0\Vin's_Trouble.csproj.AssemblyReference.cache
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level19\Vin's_Trouble\obj\Debug\net5.0\Vin's_Trouble.GeneratedMSBuildEditorConfig.editorconfig
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level19\Vin's_Trouble\obj\Debug\net5.0\Vin's_Trouble.AssemblyInfoInputs.cache
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level19\Vin's_Trouble\obj\Debug\net5.0\Vin's_Trouble.AssemblyInfo.cs
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level19\Vin's_Trouble\obj\Debug\net5.0\Vin's_Trouble.csproj.CoreCompileInputs.cache
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level19\Vin's_Trouble\obj\Debug\net5.0\Vin's_Trouble.dll
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level19\Vin's_Trouble\obj\Debug\net5.0\ref\Vin's_Trouble.dll
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level19\Vin's_Trouble\obj\Debug\net5.0\Vin's_Trouble.pdb
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level19\Vin's_Trouble\obj\Debug\net5.0\Vin's_Trouble.genruntimeconfig.cache

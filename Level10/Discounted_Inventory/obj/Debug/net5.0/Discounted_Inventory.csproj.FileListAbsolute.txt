@@ -1,0 +1,16 @@
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level10\Discounted_Inventory\bin\Debug\net5.0\Discounted_Inventory.exe
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level10\Discounted_Inventory\bin\Debug\net5.0\Discounted_Inventory.deps.json
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level10\Discounted_Inventory\bin\Debug\net5.0\Discounted_Inventory.runtimeconfig.json
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level10\Discounted_Inventory\bin\Debug\net5.0\Discounted_Inventory.runtimeconfig.dev.json
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level10\Discounted_Inventory\bin\Debug\net5.0\Discounted_Inventory.dll
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level10\Discounted_Inventory\bin\Debug\net5.0\ref\Discounted_Inventory.dll
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level10\Discounted_Inventory\bin\Debug\net5.0\Discounted_Inventory.pdb
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level10\Discounted_Inventory\obj\Debug\net5.0\Discounted_Inventory.csproj.AssemblyReference.cache
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level10\Discounted_Inventory\obj\Debug\net5.0\Discounted_Inventory.GeneratedMSBuildEditorConfig.editorconfig
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level10\Discounted_Inventory\obj\Debug\net5.0\Discounted_Inventory.AssemblyInfoInputs.cache
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level10\Discounted_Inventory\obj\Debug\net5.0\Discounted_Inventory.AssemblyInfo.cs
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level10\Discounted_Inventory\obj\Debug\net5.0\Discounted_Inventory.csproj.CoreCompileInputs.cache
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level10\Discounted_Inventory\obj\Debug\net5.0\Discounted_Inventory.dll
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level10\Discounted_Inventory\obj\Debug\net5.0\ref\Discounted_Inventory.dll
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level10\Discounted_Inventory\obj\Debug\net5.0\Discounted_Inventory.pdb
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level10\Discounted_Inventory\obj\Debug\net5.0\Discounted_Inventory.genruntimeconfig.cache

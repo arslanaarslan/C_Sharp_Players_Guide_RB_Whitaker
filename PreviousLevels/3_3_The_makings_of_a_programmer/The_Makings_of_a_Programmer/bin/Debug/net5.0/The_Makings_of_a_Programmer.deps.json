@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "The_Makings_of_a_Programmer/1.0.0": {
+        "runtime": {
+          "The_Makings_of_a_Programmer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "The_Makings_of_a_Programmer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

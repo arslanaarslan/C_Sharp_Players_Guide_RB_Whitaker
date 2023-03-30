@@ -1,0 +1,15 @@
+/home/arslan/RiderProjects/C_SHARP_RB_WHITAKER/Level26/The_Old_Robot/The_Old_Robot/bin/Debug/net6.0/The_Old_Robot
+/home/arslan/RiderProjects/C_SHARP_RB_WHITAKER/Level26/The_Old_Robot/The_Old_Robot/bin/Debug/net6.0/The_Old_Robot.deps.json
+/home/arslan/RiderProjects/C_SHARP_RB_WHITAKER/Level26/The_Old_Robot/The_Old_Robot/bin/Debug/net6.0/The_Old_Robot.runtimeconfig.json
+/home/arslan/RiderProjects/C_SHARP_RB_WHITAKER/Level26/The_Old_Robot/The_Old_Robot/bin/Debug/net6.0/The_Old_Robot.dll
+/home/arslan/RiderProjects/C_SHARP_RB_WHITAKER/Level26/The_Old_Robot/The_Old_Robot/bin/Debug/net6.0/The_Old_Robot.pdb
+/home/arslan/RiderProjects/C_SHARP_RB_WHITAKER/Level26/The_Old_Robot/The_Old_Robot/obj/Debug/net6.0/The_Old_Robot.csproj.AssemblyReference.cache
+/home/arslan/RiderProjects/C_SHARP_RB_WHITAKER/Level26/The_Old_Robot/The_Old_Robot/obj/Debug/net6.0/The_Old_Robot.GeneratedMSBuildEditorConfig.editorconfig
+/home/arslan/RiderProjects/C_SHARP_RB_WHITAKER/Level26/The_Old_Robot/The_Old_Robot/obj/Debug/net6.0/The_Old_Robot.AssemblyInfoInputs.cache
+/home/arslan/RiderProjects/C_SHARP_RB_WHITAKER/Level26/The_Old_Robot/The_Old_Robot/obj/Debug/net6.0/The_Old_Robot.AssemblyInfo.cs
+/home/arslan/RiderProjects/C_SHARP_RB_WHITAKER/Level26/The_Old_Robot/The_Old_Robot/obj/Debug/net6.0/The_Old_Robot.csproj.CoreCompileInputs.cache
+/home/arslan/RiderProjects/C_SHARP_RB_WHITAKER/Level26/The_Old_Robot/The_Old_Robot/obj/Debug/net6.0/The_Old_Robot.dll
+/home/arslan/RiderProjects/C_SHARP_RB_WHITAKER/Level26/The_Old_Robot/The_Old_Robot/obj/Debug/net6.0/refint/The_Old_Robot.dll
+/home/arslan/RiderProjects/C_SHARP_RB_WHITAKER/Level26/The_Old_Robot/The_Old_Robot/obj/Debug/net6.0/The_Old_Robot.pdb
+/home/arslan/RiderProjects/C_SHARP_RB_WHITAKER/Level26/The_Old_Robot/The_Old_Robot/obj/Debug/net6.0/The_Old_Robot.genruntimeconfig.cache
+/home/arslan/RiderProjects/C_SHARP_RB_WHITAKER/Level26/The_Old_Robot/The_Old_Robot/obj/Debug/net6.0/ref/The_Old_Robot.dll

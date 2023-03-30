@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\ARSLAN\\Projects\\C_SHARP_RB_WHITAKER\\Level7\\The_Four_Sisters_and_the_Duckbear\\The_Four_Sisters_and_the_Duckbear.csproj": {}
+  },
+  "projects": {
+    "D:\\ARSLAN\\Projects\\C_SHARP_RB_WHITAKER\\Level7\\The_Four_Sisters_and_the_Duckbear\\The_Four_Sisters_and_the_Duckbear.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ARSLAN\\Projects\\C_SHARP_RB_WHITAKER\\Level7\\The_Four_Sisters_and_the_Duckbear\\The_Four_Sisters_and_the_Duckbear.csproj",
+        "projectName": "The_Four_Sisters_and_the_Duckbear",
+        "projectPath": "D:\\ARSLAN\\Projects\\C_SHARP_RB_WHITAKER\\Level7\\The_Four_Sisters_and_the_Duckbear\\The_Four_Sisters_and_the_Duckbear.csproj",
+        "packagesPath": "C:\\Users\\YEKTAMAK-PRJ1\\.nuget\\packages\\",
+        "outputPath": "D:\\ARSLAN\\Projects\\C_SHARP_RB_WHITAKER\\Level7\\The_Four_Sisters_and_the_Duckbear\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\YEKTAMAK-PRJ1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,16 @@
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level7\The_Four_Sisters_and_the_Duckbear\bin\Debug\net5.0\The_Four_Sisters_and_the_Duckbear.exe
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level7\The_Four_Sisters_and_the_Duckbear\bin\Debug\net5.0\The_Four_Sisters_and_the_Duckbear.deps.json
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level7\The_Four_Sisters_and_the_Duckbear\bin\Debug\net5.0\The_Four_Sisters_and_the_Duckbear.runtimeconfig.json
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level7\The_Four_Sisters_and_the_Duckbear\bin\Debug\net5.0\The_Four_Sisters_and_the_Duckbear.runtimeconfig.dev.json
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level7\The_Four_Sisters_and_the_Duckbear\bin\Debug\net5.0\The_Four_Sisters_and_the_Duckbear.dll
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level7\The_Four_Sisters_and_the_Duckbear\bin\Debug\net5.0\ref\The_Four_Sisters_and_the_Duckbear.dll
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level7\The_Four_Sisters_and_the_Duckbear\bin\Debug\net5.0\The_Four_Sisters_and_the_Duckbear.pdb
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level7\The_Four_Sisters_and_the_Duckbear\obj\Debug\net5.0\The_Four_Sisters_and_the_Duckbear.csproj.AssemblyReference.cache
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level7\The_Four_Sisters_and_the_Duckbear\obj\Debug\net5.0\The_Four_Sisters_and_the_Duckbear.GeneratedMSBuildEditorConfig.editorconfig
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level7\The_Four_Sisters_and_the_Duckbear\obj\Debug\net5.0\The_Four_Sisters_and_the_Duckbear.AssemblyInfoInputs.cache
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level7\The_Four_Sisters_and_the_Duckbear\obj\Debug\net5.0\The_Four_Sisters_and_the_Duckbear.AssemblyInfo.cs
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level7\The_Four_Sisters_and_the_Duckbear\obj\Debug\net5.0\The_Four_Sisters_and_the_Duckbear.csproj.CoreCompileInputs.cache
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level7\The_Four_Sisters_and_the_Duckbear\obj\Debug\net5.0\The_Four_Sisters_and_the_Duckbear.dll
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level7\The_Four_Sisters_and_the_Duckbear\obj\Debug\net5.0\ref\The_Four_Sisters_and_the_Duckbear.dll
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level7\The_Four_Sisters_and_the_Duckbear\obj\Debug\net5.0\The_Four_Sisters_and_the_Duckbear.pdb
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level7\The_Four_Sisters_and_the_Duckbear\obj\Debug\net5.0\The_Four_Sisters_and_the_Duckbear.genruntimeconfig.cache

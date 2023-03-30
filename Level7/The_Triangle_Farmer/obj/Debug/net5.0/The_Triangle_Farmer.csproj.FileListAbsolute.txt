@@ -1,0 +1,16 @@
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level7\The_Triangle_Farmer\bin\Debug\net5.0\The_Triangle_Farmer.exe
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level7\The_Triangle_Farmer\bin\Debug\net5.0\The_Triangle_Farmer.deps.json
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level7\The_Triangle_Farmer\bin\Debug\net5.0\The_Triangle_Farmer.runtimeconfig.json
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level7\The_Triangle_Farmer\bin\Debug\net5.0\The_Triangle_Farmer.runtimeconfig.dev.json
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level7\The_Triangle_Farmer\bin\Debug\net5.0\The_Triangle_Farmer.dll
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level7\The_Triangle_Farmer\bin\Debug\net5.0\ref\The_Triangle_Farmer.dll
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level7\The_Triangle_Farmer\bin\Debug\net5.0\The_Triangle_Farmer.pdb
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level7\The_Triangle_Farmer\obj\Debug\net5.0\The_Triangle_Farmer.csproj.AssemblyReference.cache
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level7\The_Triangle_Farmer\obj\Debug\net5.0\The_Triangle_Farmer.GeneratedMSBuildEditorConfig.editorconfig
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level7\The_Triangle_Farmer\obj\Debug\net5.0\The_Triangle_Farmer.AssemblyInfoInputs.cache
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level7\The_Triangle_Farmer\obj\Debug\net5.0\The_Triangle_Farmer.AssemblyInfo.cs
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level7\The_Triangle_Farmer\obj\Debug\net5.0\The_Triangle_Farmer.csproj.CoreCompileInputs.cache
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level7\The_Triangle_Farmer\obj\Debug\net5.0\The_Triangle_Farmer.dll
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level7\The_Triangle_Farmer\obj\Debug\net5.0\ref\The_Triangle_Farmer.dll
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level7\The_Triangle_Farmer\obj\Debug\net5.0\The_Triangle_Farmer.pdb
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level7\The_Triangle_Farmer\obj\Debug\net5.0\The_Triangle_Farmer.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level14\Hunting_the_Manticore\bin\Debug\net5.0\Hunting_the_Manticore.exe
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level14\Hunting_the_Manticore\bin\Debug\net5.0\Hunting_the_Manticore.deps.json
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level14\Hunting_the_Manticore\bin\Debug\net5.0\Hunting_the_Manticore.runtimeconfig.json
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level14\Hunting_the_Manticore\bin\Debug\net5.0\Hunting_the_Manticore.runtimeconfig.dev.json
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level14\Hunting_the_Manticore\bin\Debug\net5.0\Hunting_the_Manticore.dll
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level14\Hunting_the_Manticore\bin\Debug\net5.0\ref\Hunting_the_Manticore.dll
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level14\Hunting_the_Manticore\bin\Debug\net5.0\Hunting_the_Manticore.pdb
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level14\Hunting_the_Manticore\obj\Debug\net5.0\Hunting_the_Manticore.csproj.AssemblyReference.cache
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level14\Hunting_the_Manticore\obj\Debug\net5.0\Hunting_the_Manticore.GeneratedMSBuildEditorConfig.editorconfig
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level14\Hunting_the_Manticore\obj\Debug\net5.0\Hunting_the_Manticore.AssemblyInfoInputs.cache
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level14\Hunting_the_Manticore\obj\Debug\net5.0\Hunting_the_Manticore.AssemblyInfo.cs
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level14\Hunting_the_Manticore\obj\Debug\net5.0\Hunting_the_Manticore.csproj.CoreCompileInputs.cache
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level14\Hunting_the_Manticore\obj\Debug\net5.0\Hunting_the_Manticore.dll
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level14\Hunting_the_Manticore\obj\Debug\net5.0\ref\Hunting_the_Manticore.dll
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level14\Hunting_the_Manticore\obj\Debug\net5.0\Hunting_the_Manticore.pdb
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level14\Hunting_the_Manticore\obj\Debug\net5.0\Hunting_the_Manticore.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level24\Boss_Battle-Rock_Paper_Scissors\Boss_Battle-Rock_Paper_Scissors\bin\Debug\net5.0\Boss_Battle-Rock_Paper_Scissors.exe
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level24\Boss_Battle-Rock_Paper_Scissors\Boss_Battle-Rock_Paper_Scissors\bin\Debug\net5.0\Boss_Battle-Rock_Paper_Scissors.deps.json
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level24\Boss_Battle-Rock_Paper_Scissors\Boss_Battle-Rock_Paper_Scissors\bin\Debug\net5.0\Boss_Battle-Rock_Paper_Scissors.runtimeconfig.json
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level24\Boss_Battle-Rock_Paper_Scissors\Boss_Battle-Rock_Paper_Scissors\bin\Debug\net5.0\Boss_Battle-Rock_Paper_Scissors.runtimeconfig.dev.json
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level24\Boss_Battle-Rock_Paper_Scissors\Boss_Battle-Rock_Paper_Scissors\bin\Debug\net5.0\Boss_Battle-Rock_Paper_Scissors.dll
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level24\Boss_Battle-Rock_Paper_Scissors\Boss_Battle-Rock_Paper_Scissors\bin\Debug\net5.0\ref\Boss_Battle-Rock_Paper_Scissors.dll
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level24\Boss_Battle-Rock_Paper_Scissors\Boss_Battle-Rock_Paper_Scissors\bin\Debug\net5.0\Boss_Battle-Rock_Paper_Scissors.pdb
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level24\Boss_Battle-Rock_Paper_Scissors\Boss_Battle-Rock_Paper_Scissors\obj\Debug\net5.0\Boss_Battle-Rock_Paper_Scissors.csproj.AssemblyReference.cache
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level24\Boss_Battle-Rock_Paper_Scissors\Boss_Battle-Rock_Paper_Scissors\obj\Debug\net5.0\Boss_Battle-Rock_Paper_Scissors.GeneratedMSBuildEditorConfig.editorconfig
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level24\Boss_Battle-Rock_Paper_Scissors\Boss_Battle-Rock_Paper_Scissors\obj\Debug\net5.0\Boss_Battle-Rock_Paper_Scissors.AssemblyInfoInputs.cache
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level24\Boss_Battle-Rock_Paper_Scissors\Boss_Battle-Rock_Paper_Scissors\obj\Debug\net5.0\Boss_Battle-Rock_Paper_Scissors.AssemblyInfo.cs
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level24\Boss_Battle-Rock_Paper_Scissors\Boss_Battle-Rock_Paper_Scissors\obj\Debug\net5.0\Boss_Battle-Rock_Paper_Scissors.csproj.CoreCompileInputs.cache
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level24\Boss_Battle-Rock_Paper_Scissors\Boss_Battle-Rock_Paper_Scissors\obj\Debug\net5.0\Boss_Battle-Rock_Paper_Scissors.dll
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level24\Boss_Battle-Rock_Paper_Scissors\Boss_Battle-Rock_Paper_Scissors\obj\Debug\net5.0\ref\Boss_Battle-Rock_Paper_Scissors.dll
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level24\Boss_Battle-Rock_Paper_Scissors\Boss_Battle-Rock_Paper_Scissors\obj\Debug\net5.0\Boss_Battle-Rock_Paper_Scissors.pdb
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level24\Boss_Battle-Rock_Paper_Scissors\Boss_Battle-Rock_Paper_Scissors\obj\Debug\net5.0\Boss_Battle-Rock_Paper_Scissors.genruntimeconfig.cache

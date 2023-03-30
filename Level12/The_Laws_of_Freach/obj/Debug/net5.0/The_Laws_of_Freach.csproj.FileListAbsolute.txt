@@ -1,0 +1,16 @@
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level12\The_Laws_of_Freach\bin\Debug\net5.0\The_Laws_of_Freach.exe
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level12\The_Laws_of_Freach\bin\Debug\net5.0\The_Laws_of_Freach.deps.json
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level12\The_Laws_of_Freach\bin\Debug\net5.0\The_Laws_of_Freach.runtimeconfig.json
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level12\The_Laws_of_Freach\bin\Debug\net5.0\The_Laws_of_Freach.runtimeconfig.dev.json
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level12\The_Laws_of_Freach\bin\Debug\net5.0\The_Laws_of_Freach.dll
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level12\The_Laws_of_Freach\bin\Debug\net5.0\ref\The_Laws_of_Freach.dll
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level12\The_Laws_of_Freach\bin\Debug\net5.0\The_Laws_of_Freach.pdb
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level12\The_Laws_of_Freach\obj\Debug\net5.0\The_Laws_of_Freach.csproj.AssemblyReference.cache
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level12\The_Laws_of_Freach\obj\Debug\net5.0\The_Laws_of_Freach.GeneratedMSBuildEditorConfig.editorconfig
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level12\The_Laws_of_Freach\obj\Debug\net5.0\The_Laws_of_Freach.AssemblyInfoInputs.cache
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level12\The_Laws_of_Freach\obj\Debug\net5.0\The_Laws_of_Freach.AssemblyInfo.cs
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level12\The_Laws_of_Freach\obj\Debug\net5.0\The_Laws_of_Freach.csproj.CoreCompileInputs.cache
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level12\The_Laws_of_Freach\obj\Debug\net5.0\The_Laws_of_Freach.dll
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level12\The_Laws_of_Freach\obj\Debug\net5.0\ref\The_Laws_of_Freach.dll
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level12\The_Laws_of_Freach\obj\Debug\net5.0\The_Laws_of_Freach.pdb
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level12\The_Laws_of_Freach\obj\Debug\net5.0\The_Laws_of_Freach.genruntimeconfig.cache

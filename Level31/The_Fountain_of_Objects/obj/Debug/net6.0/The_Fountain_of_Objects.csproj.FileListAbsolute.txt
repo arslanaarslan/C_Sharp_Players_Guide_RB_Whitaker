@@ -1,0 +1,15 @@
+/home/arslan/RiderProjects/C_SHARP_RB_WHITAKER/Level31/The_Fountain_of_Objects/bin/Debug/net6.0/The_Fountain_of_Objects
+/home/arslan/RiderProjects/C_SHARP_RB_WHITAKER/Level31/The_Fountain_of_Objects/bin/Debug/net6.0/The_Fountain_of_Objects.deps.json
+/home/arslan/RiderProjects/C_SHARP_RB_WHITAKER/Level31/The_Fountain_of_Objects/bin/Debug/net6.0/The_Fountain_of_Objects.runtimeconfig.json
+/home/arslan/RiderProjects/C_SHARP_RB_WHITAKER/Level31/The_Fountain_of_Objects/bin/Debug/net6.0/The_Fountain_of_Objects.dll
+/home/arslan/RiderProjects/C_SHARP_RB_WHITAKER/Level31/The_Fountain_of_Objects/bin/Debug/net6.0/The_Fountain_of_Objects.pdb
+/home/arslan/RiderProjects/C_SHARP_RB_WHITAKER/Level31/The_Fountain_of_Objects/obj/Debug/net6.0/The_Fountain_of_Objects.csproj.AssemblyReference.cache
+/home/arslan/RiderProjects/C_SHARP_RB_WHITAKER/Level31/The_Fountain_of_Objects/obj/Debug/net6.0/The_Fountain_of_Objects.GeneratedMSBuildEditorConfig.editorconfig
+/home/arslan/RiderProjects/C_SHARP_RB_WHITAKER/Level31/The_Fountain_of_Objects/obj/Debug/net6.0/The_Fountain_of_Objects.AssemblyInfoInputs.cache
+/home/arslan/RiderProjects/C_SHARP_RB_WHITAKER/Level31/The_Fountain_of_Objects/obj/Debug/net6.0/The_Fountain_of_Objects.AssemblyInfo.cs
+/home/arslan/RiderProjects/C_SHARP_RB_WHITAKER/Level31/The_Fountain_of_Objects/obj/Debug/net6.0/The_Fountain_of_Objects.csproj.CoreCompileInputs.cache
+/home/arslan/RiderProjects/C_SHARP_RB_WHITAKER/Level31/The_Fountain_of_Objects/obj/Debug/net6.0/The_Fountain_of_Objects.dll
+/home/arslan/RiderProjects/C_SHARP_RB_WHITAKER/Level31/The_Fountain_of_Objects/obj/Debug/net6.0/refint/The_Fountain_of_Objects.dll
+/home/arslan/RiderProjects/C_SHARP_RB_WHITAKER/Level31/The_Fountain_of_Objects/obj/Debug/net6.0/The_Fountain_of_Objects.pdb
+/home/arslan/RiderProjects/C_SHARP_RB_WHITAKER/Level31/The_Fountain_of_Objects/obj/Debug/net6.0/The_Fountain_of_Objects.genruntimeconfig.cache
+/home/arslan/RiderProjects/C_SHARP_RB_WHITAKER/Level31/The_Fountain_of_Objects/obj/Debug/net6.0/ref/The_Fountain_of_Objects.dll

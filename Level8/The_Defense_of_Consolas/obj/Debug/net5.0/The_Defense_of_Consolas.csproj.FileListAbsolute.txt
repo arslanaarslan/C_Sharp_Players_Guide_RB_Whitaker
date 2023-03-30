@@ -1,0 +1,16 @@
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level8\The_Defense_of_Consolas\bin\Debug\net5.0\The_Defense_of_Consolas.exe
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level8\The_Defense_of_Consolas\bin\Debug\net5.0\The_Defense_of_Consolas.deps.json
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level8\The_Defense_of_Consolas\bin\Debug\net5.0\The_Defense_of_Consolas.runtimeconfig.json
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level8\The_Defense_of_Consolas\bin\Debug\net5.0\The_Defense_of_Consolas.runtimeconfig.dev.json
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level8\The_Defense_of_Consolas\bin\Debug\net5.0\The_Defense_of_Consolas.dll
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level8\The_Defense_of_Consolas\bin\Debug\net5.0\ref\The_Defense_of_Consolas.dll
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level8\The_Defense_of_Consolas\bin\Debug\net5.0\The_Defense_of_Consolas.pdb
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level8\The_Defense_of_Consolas\obj\Debug\net5.0\The_Defense_of_Consolas.csproj.AssemblyReference.cache
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level8\The_Defense_of_Consolas\obj\Debug\net5.0\The_Defense_of_Consolas.GeneratedMSBuildEditorConfig.editorconfig
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level8\The_Defense_of_Consolas\obj\Debug\net5.0\The_Defense_of_Consolas.AssemblyInfoInputs.cache
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level8\The_Defense_of_Consolas\obj\Debug\net5.0\The_Defense_of_Consolas.AssemblyInfo.cs
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level8\The_Defense_of_Consolas\obj\Debug\net5.0\The_Defense_of_Consolas.csproj.CoreCompileInputs.cache
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level8\The_Defense_of_Consolas\obj\Debug\net5.0\The_Defense_of_Consolas.dll
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level8\The_Defense_of_Consolas\obj\Debug\net5.0\ref\The_Defense_of_Consolas.dll
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level8\The_Defense_of_Consolas\obj\Debug\net5.0\The_Defense_of_Consolas.pdb
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level8\The_Defense_of_Consolas\obj\Debug\net5.0\The_Defense_of_Consolas.genruntimeconfig.cache

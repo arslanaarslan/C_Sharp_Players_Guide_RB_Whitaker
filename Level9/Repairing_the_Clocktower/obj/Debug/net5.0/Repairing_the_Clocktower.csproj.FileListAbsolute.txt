@@ -1,0 +1,16 @@
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level9\Repairing_the_Clocktower\bin\Debug\net5.0\Repairing_the_Clocktower.exe
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level9\Repairing_the_Clocktower\bin\Debug\net5.0\Repairing_the_Clocktower.deps.json
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level9\Repairing_the_Clocktower\bin\Debug\net5.0\Repairing_the_Clocktower.runtimeconfig.json
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level9\Repairing_the_Clocktower\bin\Debug\net5.0\Repairing_the_Clocktower.runtimeconfig.dev.json
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level9\Repairing_the_Clocktower\bin\Debug\net5.0\Repairing_the_Clocktower.dll
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level9\Repairing_the_Clocktower\bin\Debug\net5.0\ref\Repairing_the_Clocktower.dll
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level9\Repairing_the_Clocktower\bin\Debug\net5.0\Repairing_the_Clocktower.pdb
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level9\Repairing_the_Clocktower\obj\Debug\net5.0\Repairing_the_Clocktower.csproj.AssemblyReference.cache
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level9\Repairing_the_Clocktower\obj\Debug\net5.0\Repairing_the_Clocktower.GeneratedMSBuildEditorConfig.editorconfig
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level9\Repairing_the_Clocktower\obj\Debug\net5.0\Repairing_the_Clocktower.AssemblyInfoInputs.cache
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level9\Repairing_the_Clocktower\obj\Debug\net5.0\Repairing_the_Clocktower.AssemblyInfo.cs
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level9\Repairing_the_Clocktower\obj\Debug\net5.0\Repairing_the_Clocktower.csproj.CoreCompileInputs.cache
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level9\Repairing_the_Clocktower\obj\Debug\net5.0\Repairing_the_Clocktower.dll
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level9\Repairing_the_Clocktower\obj\Debug\net5.0\ref\Repairing_the_Clocktower.dll
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level9\Repairing_the_Clocktower\obj\Debug\net5.0\Repairing_the_Clocktower.pdb
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level9\Repairing_the_Clocktower\obj\Debug\net5.0\Repairing_the_Clocktower.genruntimeconfig.cache

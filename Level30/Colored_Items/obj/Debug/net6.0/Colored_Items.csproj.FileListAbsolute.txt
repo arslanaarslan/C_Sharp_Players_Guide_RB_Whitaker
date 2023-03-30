@@ -1,0 +1,15 @@
+/home/arslan/RiderProjects/C_SHARP_RB_WHITAKER/Level30/Colored_Items/bin/Debug/net6.0/Colored_Items
+/home/arslan/RiderProjects/C_SHARP_RB_WHITAKER/Level30/Colored_Items/bin/Debug/net6.0/Colored_Items.deps.json
+/home/arslan/RiderProjects/C_SHARP_RB_WHITAKER/Level30/Colored_Items/bin/Debug/net6.0/Colored_Items.runtimeconfig.json
+/home/arslan/RiderProjects/C_SHARP_RB_WHITAKER/Level30/Colored_Items/bin/Debug/net6.0/Colored_Items.dll
+/home/arslan/RiderProjects/C_SHARP_RB_WHITAKER/Level30/Colored_Items/bin/Debug/net6.0/Colored_Items.pdb
+/home/arslan/RiderProjects/C_SHARP_RB_WHITAKER/Level30/Colored_Items/obj/Debug/net6.0/Colored_Items.csproj.AssemblyReference.cache
+/home/arslan/RiderProjects/C_SHARP_RB_WHITAKER/Level30/Colored_Items/obj/Debug/net6.0/Colored_Items.GeneratedMSBuildEditorConfig.editorconfig
+/home/arslan/RiderProjects/C_SHARP_RB_WHITAKER/Level30/Colored_Items/obj/Debug/net6.0/Colored_Items.AssemblyInfoInputs.cache
+/home/arslan/RiderProjects/C_SHARP_RB_WHITAKER/Level30/Colored_Items/obj/Debug/net6.0/Colored_Items.AssemblyInfo.cs
+/home/arslan/RiderProjects/C_SHARP_RB_WHITAKER/Level30/Colored_Items/obj/Debug/net6.0/Colored_Items.csproj.CoreCompileInputs.cache
+/home/arslan/RiderProjects/C_SHARP_RB_WHITAKER/Level30/Colored_Items/obj/Debug/net6.0/Colored_Items.dll
+/home/arslan/RiderProjects/C_SHARP_RB_WHITAKER/Level30/Colored_Items/obj/Debug/net6.0/refint/Colored_Items.dll
+/home/arslan/RiderProjects/C_SHARP_RB_WHITAKER/Level30/Colored_Items/obj/Debug/net6.0/Colored_Items.pdb
+/home/arslan/RiderProjects/C_SHARP_RB_WHITAKER/Level30/Colored_Items/obj/Debug/net6.0/Colored_Items.genruntimeconfig.cache
+/home/arslan/RiderProjects/C_SHARP_RB_WHITAKER/Level30/Colored_Items/obj/Debug/net6.0/ref/Colored_Items.dll

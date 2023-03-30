@@ -1,0 +1,15 @@
+/home/arslan/RiderProjects/C_SHARP_RB_WHITAKER/Level27/Robotic_Interface/Robotic_Interface/bin/Debug/net6.0/Robotic_Interface
+/home/arslan/RiderProjects/C_SHARP_RB_WHITAKER/Level27/Robotic_Interface/Robotic_Interface/bin/Debug/net6.0/Robotic_Interface.deps.json
+/home/arslan/RiderProjects/C_SHARP_RB_WHITAKER/Level27/Robotic_Interface/Robotic_Interface/bin/Debug/net6.0/Robotic_Interface.runtimeconfig.json
+/home/arslan/RiderProjects/C_SHARP_RB_WHITAKER/Level27/Robotic_Interface/Robotic_Interface/bin/Debug/net6.0/Robotic_Interface.dll
+/home/arslan/RiderProjects/C_SHARP_RB_WHITAKER/Level27/Robotic_Interface/Robotic_Interface/bin/Debug/net6.0/Robotic_Interface.pdb
+/home/arslan/RiderProjects/C_SHARP_RB_WHITAKER/Level27/Robotic_Interface/Robotic_Interface/obj/Debug/net6.0/Robotic_Interface.csproj.AssemblyReference.cache
+/home/arslan/RiderProjects/C_SHARP_RB_WHITAKER/Level27/Robotic_Interface/Robotic_Interface/obj/Debug/net6.0/Robotic_Interface.GeneratedMSBuildEditorConfig.editorconfig
+/home/arslan/RiderProjects/C_SHARP_RB_WHITAKER/Level27/Robotic_Interface/Robotic_Interface/obj/Debug/net6.0/Robotic_Interface.AssemblyInfoInputs.cache
+/home/arslan/RiderProjects/C_SHARP_RB_WHITAKER/Level27/Robotic_Interface/Robotic_Interface/obj/Debug/net6.0/Robotic_Interface.AssemblyInfo.cs
+/home/arslan/RiderProjects/C_SHARP_RB_WHITAKER/Level27/Robotic_Interface/Robotic_Interface/obj/Debug/net6.0/Robotic_Interface.csproj.CoreCompileInputs.cache
+/home/arslan/RiderProjects/C_SHARP_RB_WHITAKER/Level27/Robotic_Interface/Robotic_Interface/obj/Debug/net6.0/Robotic_Interface.dll
+/home/arslan/RiderProjects/C_SHARP_RB_WHITAKER/Level27/Robotic_Interface/Robotic_Interface/obj/Debug/net6.0/refint/Robotic_Interface.dll
+/home/arslan/RiderProjects/C_SHARP_RB_WHITAKER/Level27/Robotic_Interface/Robotic_Interface/obj/Debug/net6.0/Robotic_Interface.pdb
+/home/arslan/RiderProjects/C_SHARP_RB_WHITAKER/Level27/Robotic_Interface/Robotic_Interface/obj/Debug/net6.0/Robotic_Interface.genruntimeconfig.cache
+/home/arslan/RiderProjects/C_SHARP_RB_WHITAKER/Level27/Robotic_Interface/Robotic_Interface/obj/Debug/net6.0/ref/Robotic_Interface.dll

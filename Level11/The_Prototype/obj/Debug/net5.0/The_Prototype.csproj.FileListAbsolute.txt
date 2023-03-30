@@ -1,0 +1,16 @@
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level11\The_Prototype\bin\Debug\net5.0\The_Prototype.exe
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level11\The_Prototype\bin\Debug\net5.0\The_Prototype.deps.json
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level11\The_Prototype\bin\Debug\net5.0\The_Prototype.runtimeconfig.json
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level11\The_Prototype\bin\Debug\net5.0\The_Prototype.runtimeconfig.dev.json
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level11\The_Prototype\bin\Debug\net5.0\The_Prototype.dll
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level11\The_Prototype\bin\Debug\net5.0\ref\The_Prototype.dll
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level11\The_Prototype\bin\Debug\net5.0\The_Prototype.pdb
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level11\The_Prototype\obj\Debug\net5.0\The_Prototype.csproj.AssemblyReference.cache
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level11\The_Prototype\obj\Debug\net5.0\The_Prototype.GeneratedMSBuildEditorConfig.editorconfig
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level11\The_Prototype\obj\Debug\net5.0\The_Prototype.AssemblyInfoInputs.cache
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level11\The_Prototype\obj\Debug\net5.0\The_Prototype.AssemblyInfo.cs
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level11\The_Prototype\obj\Debug\net5.0\The_Prototype.csproj.CoreCompileInputs.cache
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level11\The_Prototype\obj\Debug\net5.0\The_Prototype.dll
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level11\The_Prototype\obj\Debug\net5.0\ref\The_Prototype.dll
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level11\The_Prototype\obj\Debug\net5.0\The_Prototype.pdb
+D:\ARSLAN\Projects\C_SHARP_RB_WHITAKER\Level11\The_Prototype\obj\Debug\net5.0\The_Prototype.genruntimeconfig.cache
