@@ -24,7 +24,7 @@ public class Announcer
 
     public void Announce()
     {
-        FountainRoom fountainRoom = (FountainRoom)_map.MapArray[_map.GetFountainXCoordinate(), _map.GetFountainYCoordinate()];
+        FountainRoom fountainRoom = (FountainRoom)_map.MapArray[_map.GetFountainYCoordinate(), _map.GetFountainXCoordinate()];
         
         Console.WriteLine("----------------------------------------------------------------------------------");
 

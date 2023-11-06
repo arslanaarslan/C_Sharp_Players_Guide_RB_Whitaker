@@ -19,10 +19,10 @@ public class Game
     {
         Boolean success = false;
         string? answer = "";
-        Console.WriteLine("Which size do you prefer your map, small(4x4), medium(6x6) or large(8x8)?");
 
         while (!success)
         {
+            Console.WriteLine("Which size do you prefer your map, small(4x4), medium(6x6) or large(8x8)?");
             answer = Console.ReadLine()?.ToLower();
             switch (answer)
             {
@@ -40,7 +40,7 @@ public class Game
                     break;
                 default:
                     Console.WriteLine("Invalid map size!");
-                    break;
+                    continue;
             }
         }
 
@@ -55,7 +55,7 @@ public class Game
         if (map != null)
         {
             FountainRoom? fountainRoom =
-                (FountainRoom)map?.MapArray[map.GetFountainXCoordinate(), map.GetFountainYCoordinate()]!;
+                (FountainRoom)map?.MapArray[map.GetFountainYCoordinate(), map.GetFountainXCoordinate()]!;
 
             string? answer = "";
 
